@@ -14,6 +14,9 @@ vous avez maintenant à lancer le projet. après cela vous pourrez utiliser les 
 
 suivez donc les instructions et naviguez entre les différents scénarios.
 
+vous pourriez contacter les personnes qui ont travaillé sur le projet.
+timothy.alexis@efrei.net  moussa.abdoul.razak.kone.gogbe@efrei.net
+
 
 
 
