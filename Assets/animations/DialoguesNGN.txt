@@ -1,0 +1,49 @@
+Etape 1 : Couloir (consentement)
+
+X = personnage principal ; B = Beauf
+
+*X traverse le couloir, se dirige vers le bureau où aura lieu l’entretien, et croise B
+B : « Bonjour madame, vous êtes nouvelle ici? »
+X : « Bonjour, oui je vais passer un entretien de recrutement pour cette entreprise »
+B : « Ravi d’entendre cela, vous avez un compagnon ? »
+X : « Euh non, mais pourquoi vous permettez-vous de me poser cette question ? ». 
+B : « Et bien c’est une aubaine de bientôt compter une si jolie fille parmi nous, et j’aimerais faire plus connaissance, en obtenant par exemple votre numéro de téléphone  ? 
+X : Euh non merci, cela ne m’intéresse pas et je ne vous connais pas assez »
+R : « Pourtant votre tenue suppose le consentement aux propositions d’origine masculine, non ? »
+
+
+
+Etape 2 : Entretien
+
+X = personnage principal ; R = Recruteur
+
+*X ouvre la porte, rentre dans la salle1, s’assoit, se retrouve devant R, assit à son bureau.
+R : « Bienvenue X, je suis Roger, recruteur chez Microsoft, comment-allez vous ? »
+X : « Bonjour, très bien merci , et vous ? »
+R : « Parfait, également, merci. Permettez-moi une question avant que celles dites plus conventionnelles ne soient posées : vous savez garder votre calme n’est-ce pas ? Je demande car les femmes sont parfois connues pour s’énerver plus rapidement que les hommes et Ledol est connu pour son cadre de travail très zen. »
+X : « Euh oui, je ne souffre pas d’hystérie ou de quelconque trouble similaire ». 
+R : « Alors dites-moi, qu’est-ce qui vous a motivé à candidater auprès de notre entreprise ? « 
+X : « Et bien, j’ai toujours voulu intégrer Microsoft vu la renommée internationale de l’entreprise et les compétences décrites dans l’offre, auxquelles je pense correspondre. En plus de cela, des alumnis de mon école m’ont recommandé l’enseigne pour ses valeurs et son cadre de travail. »
+R : « Que d’éloges, que d’éloges. La curiosité accompagnant ma question était d’autant plus ample que vous êtes une femme et qu’il est rare que de tels centres d’intérêt soit associés à votre genre. Pourquoi ne pas avoir fait un CAP coiffure, ou des études littéraires à la limite, au lieu de prendre la voie des études scientifiques ? »
+X : « Et bien je souhaite justement changer l’image qu’a l’inconscient collectif de la femme, qui doit soit rester au foyer s’occuper des enfants et cuisiner, soit être affectée à une activité typiquement féminine. Je considère qu’il y a trop peu de femmes parmi les ingénieurs. »
+R : « Et pensez-vous réellement être assez compétente, comme vous l’avez mentionné dans vos motivations, pour obtenir le poste ? Beaucoup de femmes, malgré leur motivation, n’ont pas le potentiel pour débloquer le niveau requis. »
+
+Etape 3 : Taches
+
+X = personnage principal ; C = Collègue
+
+*X est parmi ses nombreux collègues lors d’une réunion pour décider la répartition des tâches
+C : « Bonjour tout le monde, j’espère que ça va : comme vous le savez, nous nous sommes retrouvés aujourd’hui pour se répartir les tâches après la journée de travail. Nous avons le choix entre remplir l’automate, fermer les caisses, et nettoyer les sanitaires. »
+C2 : « Je souhaite m’occuper de l’automate. »
+C : « Très bien. Il reste donc la caisse et les sanitaires. Qui se porte volontaire ?»
+C3 : « Et bien X pourrait prendre les sanitaires non ? Puisque personne ne semble jamais vouloir s’en occuper ». 
+C : « Je suis assez d’accord. »
+
+
+Etape 4 : Propositions Lourdes
+
+X = personnage principal ; B = Boss
+
+Au cours des missions, vous vous êtes familiarisée avec votre environnement, dont votre patron. Problème : Après des avances plutôt légères, il vous invite à passer la soirée dans son appartement.
+
+(je te laisse faire un discours à partir de cet énoncé, qui se termine avec le patron qui demande : « Que diriez-vous de passer la soirée avec moi au 8 Avenue Foch, à Paris ? »)
